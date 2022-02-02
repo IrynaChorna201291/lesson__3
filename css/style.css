@@ -1,0 +1,68 @@
+p{
+	color:blue;
+}
+ul li{
+	color:darkkhaki;
+}
+#color{
+	color:rgb(80, 255, 103);
+}
+p.hotpink{
+	color:hotpink;
+}
+span{
+	color:blueviolet;
+}
+p span{
+	color:cadetblue;
+}
+h3{
+	color:rgb(191, 204, 131);
+}
+.last{
+	color:darkgoldenrod;
+}
+.last.paragraph{
+	color:rgb(228, 22, 22);
+}
+.wrapper {
+}
+.header {
+}
+.logo {
+}
+.header-menu {
+}
+.header-list {
+
+}
+.title {
+		color:rgb(233, 175, 175);
+}
+.apple {
+}
+.main {
+}
+.content {
+}
+.sub-title {
+	color:aquamarine;
+}
+.paragraph {
+}
+.colorlist {
+}
+.classic triad {
+}
+.triad {
+	color:red;
+}
+.split {
+}
+.tetrad {
+}
+.square {
+	color:rgb(89, 159, 180);
+}
+.footer {
+}
